@@ -22,3 +22,27 @@ Shoporia is a Flutter-based e-commerce app designed for a seamless shopping expe
 1. Clone the repository:
    ```bash
    git clone https://github.com/afham-haleema/shoporia.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd shoporia
+
+3. flutter pub get
+
+4. flutter run
+
+## Technologies Used
+
+- **Flutter**: The app is built using Flutter for cross-platform development.
+- **Dart**: The programming language used in Flutter.
+- **Firebase**: Used for authentication and backend services (if applicable).
+
+## Contributing
+
+Feel free to fork this project, submit issues, and send pull requests. Contributions are always welcome!
+
+
+## Acknowledgements
+
+- Thanks to **Flutter** and the Flutter community for their amazing tools and resources.
+- Special thanks to the libraries used in the development of this app.
