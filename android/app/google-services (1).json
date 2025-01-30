@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "445959327668",
+    "project_id": "flutter-apps-39644",
+    "storage_bucket": "flutter-apps-39644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:11b3015eb7e2dcdeff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445959327668-q4cflbo3p5plinu8b32f02useplak2mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_app",
+            "certificate_hash": "2d096547e610b64021c801932761dc46b7d8a6f2"
+          }
+        },
+        {
+          "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445959327668-1lgiskp27fbb0occq6tndkmo1rp1ok5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:8a7986155a008ecfff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_client_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445959327668-1lgiskp27fbb0occq6tndkmo1rp1ok5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:1fc7356d11cbfaedff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.shoporia_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445959327668-1lgiskp27fbb0occq6tndkmo1rp1ok5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:2ab18a91c2f77f70ff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.shoporia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445959327668-f8kd58hpu7redd7jenalv13daceo6seh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoporia_app",
+            "certificate_hash": "2d096547e610b64021c801932761dc46b7d8a6f2"
+          }
+        },
+        {
+          "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445959327668-imrahl8ilfg0e5pnjrjqfu9uqks2vobk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445959327668-1lgiskp27fbb0occq6tndkmo1rp1ok5r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

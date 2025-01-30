@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "445959327668",
+    "project_id": "flutter-apps-39644",
+    "storage_bucket": "flutter-apps-39644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:11b3015eb7e2dcdeff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:8a7986155a008ecfff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_client_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445959327668:android:1fc7356d11cbfaedff2ce1",
+        "android_client_info": {
+          "package_name": "com.example.shoporia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0orNoYEtTHuegq_xw3xv7LCjbu71Ggn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
