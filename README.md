@@ -3,6 +3,26 @@
 
 Shoporia is a Flutter-based e-commerce app designed for a seamless shopping experience. The app allows users to browse and purchase a wide range of products, manage their shopping cart, and securely checkout.
 
+![login](./images/login.png)
+
+![home](./images/home%20(2).png)
+
+![categories](./images/categories.png)
+
+![details](./images/details%20(2).png)
+
+![cart](./images/cart.png)
+
+![checkout](./images/checkout.png)
+
+![payment](./images/payment.png)
+
+![summary](./images/summary.png)
+
+![summary](./images/summary%20(2).png)
+
+![profile](./images/profile.png)
+
 ## Features
 
 - **Browse Products**: Users can view a variety of products categorized for easy browsing.

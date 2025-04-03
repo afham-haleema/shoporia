@@ -12,6 +12,20 @@ migrate_working_dir/
 
 .env
 
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist
+
+# Firebase emulators (if used)
+firebase-debug.log
+.firebase/
+
+# Android-specific Firebase files
+app/google-services.json
+
+# iOS-specific Firebase files
+ios/Runner/GoogleService-Info.plist
+
 # IntelliJ related
 *.iml
 *.ipr
