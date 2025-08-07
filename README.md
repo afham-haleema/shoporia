@@ -44,7 +44,7 @@ Shoporia is a Flutter-based e-commerce app designed for a seamless shopping expe
 
 - **Flutter**: The app is built using Flutter for cross-platform development.
 - **Dart**: The programming language used in Flutter.
-- **Firebase**: Used for authentication and backend services (if applicable).
+- **Firebase**: Used for authentication and backend services
 
 ## Contributing
 
